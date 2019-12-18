@@ -2,7 +2,7 @@
 
 Vim is a modal editor. Meaning it has modes.
 
-## (starting in) COMMAND mode:
+## ESC - COMMAND mode:
 :q - quit
 :q! - quit without saving
 
