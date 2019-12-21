@@ -5,13 +5,13 @@ Vim is a modal editor. Meaning it has modes.
 . - repeat action
 u - undo action
 
-
-
 ## ESC - COMMAND mode:
-:q - quit
+### :q - quit
 :q! - quit without saving
 
-d - delete
+### d - delete
+d+w - delete word
+
 dd - delete a line
 8dd - delete 8 lines
 
@@ -24,16 +24,27 @@ di{ - delete inner parenthesis
 di( - delete inner brackets
 dip - delete inner paragraph
 
-c - change
+### c - change
+cf<character> - change until <character>
 
-crtlR - redo
+### f - find
+f<character> - find next character
+F<character> find previous character
 
-/searchString
+### j/k - move
+j - move cursor down
+k - move cursor up
+h - move cursor left
+l - move cursor right
+
+5j - move 5 lines down
+ 
+### / - search
+/<searchString> - go to <searchString>
  n - next result
  SHIFTn - previous result
- 
- d+w - delete word
- 
+
+### replace
  :s%/searchString/replaceString
 
 ## i - INSERT mode
