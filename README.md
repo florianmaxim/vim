@@ -9,6 +9,9 @@ u - undo action
 ### :q - quit
 :q! - quit without saving
 
+### p - paste
+(copy + paste) - dd (delte line) + p (paste)
+
 ### d - delete
 d+w - delete word
 
