@@ -13,9 +13,11 @@ u - undo action
 d+w - delete word
 
 dd - delete a line
+
 8dd - delete 8 lines
 
 diw - delete inner word
+
 das - delete a sentence
 
 dit - delete inner tag
