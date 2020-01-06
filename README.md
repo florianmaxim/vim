@@ -27,7 +27,9 @@ das - delete a sentence
 dit - delete inner tag
 
 di{ - delete inner parenthesis
+
 di( - delete inner brackets
+
 dip - delete inner paragraph
 
 ### c - change
