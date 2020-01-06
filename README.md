@@ -3,6 +3,7 @@
 Vim is a modal editor. Meaning it has modes.
 
 . - repeat action
+
 u - undo action
 
 ## ESC - COMMAND mode:
