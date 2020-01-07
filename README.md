@@ -32,6 +32,10 @@ di( - delete inner brackets
 
 dip - delete inner paragraph
 
+AROUND
+
+dap - delete AROUND paragraph
+
 ### c - change
 cf<character> - change until <character>
 
