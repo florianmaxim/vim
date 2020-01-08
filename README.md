@@ -43,7 +43,7 @@ dap - delete AROUND paragraph
 ### c - change
 cf<character> - change until <character>
 
-### f - find
+### f - forward/find
 f<character> - find next character
 F<character> find previous character
 
