@@ -7,6 +7,10 @@ Vim is a modal editor. Meaning it has modes.
 u - undo action
 
 ## ESC - COMMAND mode:
+
+### :<LINENUMBER> - go to line
+:75 - go to line 75
+ 
 ### :q - quit
 :q! - quit without saving
 
