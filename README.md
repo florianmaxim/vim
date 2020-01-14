@@ -10,7 +10,7 @@ u - undo action
 
 ## v - enter visual mode
 
-# y - yank(copy=
+y - yank(copy)
 
 ### :<LINENUMBER> - go to line
 :75 - go to line 75
