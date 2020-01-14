@@ -1,5 +1,7 @@
 # VIM
 
+https://gist.github.com/awidegreen/3854277
+
 Vim is a modal editor. Meaning it has modes.
 
 . - repeat action
