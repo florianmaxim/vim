@@ -8,6 +8,10 @@ u - undo action
 
 ## ESC - COMMAND mode:
 
+## v - enter visual mode
+
+# y - yank(copy=
+
 ### :<LINENUMBER> - go to line
 :75 - go to line 75
  
@@ -18,6 +22,9 @@ u - undo action
 (copy + paste) - dd (delte line) + p (paste)
 
 ### d - delete
+
+SHIFT + D - delte from cursor until end of line
+
 d+w - delete word
 
 dd - delete a line
