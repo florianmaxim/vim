@@ -11,7 +11,9 @@ u - undo action
 ## v - enter visual mode
 
 y - yank(copy)
+
 c - cut
+
 p - paste
 
 ### :<LINENUMBER> - go to line
