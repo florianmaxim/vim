@@ -79,3 +79,6 @@ ESC - EXIT insert mode
 :vs - open vertical split
 
 :SPACEq - close slit
+
+# VIM on a Macbook with Touchbar
+https://csswizardry.com/2017/01/preparing-vim-for-apples-touch-bar/#fn:1
